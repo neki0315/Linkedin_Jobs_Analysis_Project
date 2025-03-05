@@ -25,6 +25,9 @@ This project extracts job postings from LinkedIn, cleans the data using Python (
 🔹 Power BI: Data visualization & DAX calculations
 
 
+
+
+
 🔹 1. Web Scraping LinkedIn Jobs
 
 The project scrapes data-related jobs from LinkedIn, extracting:
@@ -40,6 +43,7 @@ The project scrapes data-related jobs from LinkedIn, extracting:
 ✔ Experience Level
 
 ✔ Required Skills
+
 
 🔹 2. Data Cleaning & Preprocessing
 
@@ -58,6 +62,7 @@ The data cleaning process ensures accuracy and consistency.
 ✔ Split Location into City & State
 
 ✔ Extract required skills
+
 
 
 🔹 3. Data Visualization with Power BI
